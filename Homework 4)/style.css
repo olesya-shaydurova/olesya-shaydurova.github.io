@@ -1,0 +1,22 @@
+h1, h2, h3 {
+    text-align: center;
+    color: slategray;
+    font-weight: bold;
+}
+a {
+    font-size: 20px;
+    color: slategray;
+}
+.feature-list {
+   font-family: 'Arial';
+   font-size: 14px;
+   color: teal;
+   line-height: 26px;
+}
+.content-centered {
+    text-align: center;
+}
+.description-block {
+    font-family:'Arial';
+    font-size: 16px;
+}
